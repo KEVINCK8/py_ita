@@ -23,7 +23,7 @@ py_ita.stampa("Ciao, mondo!")
 La lista completa delle funzioni disponibili è presente nel file funzioni.py incluso nella libreria. 
 
 ## funzioni disponibili
-```
+```python
 val_assoluto(): restituisce il valore assoluto di un numero.
 tutto(): restituisce True se tutti i numeri in un oggetto sono veri.
 qualunque(): restituisce True se almeno un numero in un oggetto è vero.
