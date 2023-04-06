@@ -136,11 +136,11 @@ def intero(*args, **kwargs):
     return int(*args, **kwargs)
 
 #isinstance se è un istanza riceve true 
-def èistanza(*args, **kwargs):
+def e_istanza(*args, **kwargs):
     return isinstance(*args, **kwargs)
 
 #issubclass ritorna true se è una sottoclasse
-def èsottoclasse(*args, **kwargs):
+def e_sottoclasse(*args, **kwargs):
     return issubclass(*args, **kwargs)
 
 #iterator ritorna iteratore di un oggetto
